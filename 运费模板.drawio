@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-17T07:32:15.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="txZV1TFhEjY1I1kyAPC4" version="13.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-17T07:37:20.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="qDeSVU-ugTe5_40h6Osj" version="13.6.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="运费模样">
-    <mxGraphModel dx="1704" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -148,12 +148,6 @@
         <mxCell id="stCx9TEKh2jNsoe4EKCQ-98" value="是否有设置特殊地区" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="336.5" y="618" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="stCx9TEKh2jNsoe4EKCQ-116" value="ex_transfee_free" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1100" y="1083" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="stCx9TEKh2jNsoe4EKCQ-118" value="ex_transcity_free" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1100" y="1013" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="SvztpezoC-0F4FLY3fxO-17" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SvztpezoC-0F4FLY3fxO-1" target="SvztpezoC-0F4FLY3fxO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -209,6 +203,15 @@
         </mxCell>
         <mxCell id="SvztpezoC-0F4FLY3fxO-30" value="特殊区域运费" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="585.5" y="331" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvztpezoC-0F4FLY3fxO-33" value="&lt;span&gt;ex_transport&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="346.5" y="669" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SvztpezoC-0F4FLY3fxO-34" value="&lt;span&gt;ex_transcity_free&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="437.5" y="456" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SvztpezoC-0F4FLY3fxO-35" value="&lt;span&gt;ex_transport&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#FFFFFF;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="603" y="320" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
